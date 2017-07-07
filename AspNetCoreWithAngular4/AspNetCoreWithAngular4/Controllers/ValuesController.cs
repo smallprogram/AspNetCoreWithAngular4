@@ -15,7 +15,7 @@ namespace AspNetCoreWithAngular4.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Hello Angular4", "Hello Asp.Net Core 1.1" };
+            return new string[] { "Hello Angular4", "Hello Asp.Net Core 1.1" ,"这是监控模式"};
         }
 
         // GET api/values/5

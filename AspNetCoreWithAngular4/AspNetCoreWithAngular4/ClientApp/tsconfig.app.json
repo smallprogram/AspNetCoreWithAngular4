@@ -1,0 +1,13 @@
+﻿{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../wwwroot/out-tsc/app",
+    "module": "es2015",
+    "baseUrl": "",
+    "types": []
+  },
+  "exclude": [
+    "test.ts",
+    "**/*.spec.ts"
+  ]
+}
