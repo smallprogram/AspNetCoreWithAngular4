@@ -5,5 +5,5 @@
 [![npm](https://img.shields.io/badge/Asp.NetCore-1.1-yellowgreen.svg)]()
 # AspNetCoreWithAngular4
 
-说明地址：http://www.cnbolgs.com/smallprogram
+说明地址：http://www.cnblogs.com/smallprogram
 
